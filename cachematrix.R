@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Goal: Write an R function is able to cache potentially time-consuming computations.
 
 ## Write a short comment describing this function
 ## This function creates a special "matrix" object that can cache its inverse.
